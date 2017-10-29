@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "обчислення виразу", "обчислення виразу\обчислення виразу.csproj", "{2A121815-ACE7-47C8-A711-1D1594D5FDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A121815-ACE7-47C8-A711-1D1594D5FDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A121815-ACE7-47C8-A711-1D1594D5FDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A121815-ACE7-47C8-A711-1D1594D5FDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A121815-ACE7-47C8-A711-1D1594D5FDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC865BF7-DAC2-4057-92F2-5D3F87786435}
+	EndGlobalSection
+EndGlobal
